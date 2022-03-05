@@ -1,0 +1,20 @@
+  h1 {
+  text-align: center;
+  color: #cae0ca;
+  text-shadow: 4px 4px 0 #638063;
+  font-size: 50px;
+  background-color: #95b895;
+  }
+
+body {
+  text-align: center;
+}
+
+#home {
+  background-color: #95b895;
+  background-image: url("aqualibrary.jpeg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 60vw;
+  height: 100vh;
+}
